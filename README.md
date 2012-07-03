@@ -1,13 +1,3 @@
-# This Branch is a WIP Payza implementation
-This branch is a WIP. Ideally someone will add this properly t Active_merchant
-
-The new files in this branch are in the ..integrations/payza
-
-Only basic testing has been done so far.
-
-----
-
-
 # Active Merchant
 
 Active Merchant is an extraction from the e-commerce system [Shopify](http://www.shopify.com).

@@ -1,0 +1,8 @@
+# This Branch is a WIP Payza implementation
+Ideally someone will add this properly to active_merchant.
+
+The new files in this branch are in the ..integrations/payza
+
+Only basic testing has been done so far. Good luck!
+
+----
